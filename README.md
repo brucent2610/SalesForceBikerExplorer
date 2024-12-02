@@ -18,4 +18,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hSHvERR" data-context="false" ><a href="//imgur.com/a/hSHvERR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://i.imgur.com/lorDlCT.png)
