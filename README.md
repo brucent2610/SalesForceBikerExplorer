@@ -23,5 +23,5 @@ sf project deploy start
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
-## BIKE EXPORER
+## BIKE EXPLORER
 ![DEMO VIDEO](https://github.com/user-attachments/assets/7b3c33f0-921f-4496-b756-c1f1a8e8ce4b)
