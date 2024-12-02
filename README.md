@@ -25,3 +25,9 @@ sf project deploy start
 
 ## BIKE EXPLORER
 ![DEMO VIDEO](https://github.com/user-attachments/assets/7b3c33f0-921f-4496-b756-c1f1a8e8ce4b)
+
+## ISSUES
+
+### Image no showing
+- Go to Trust Urls
+- Add the domain S3 images
