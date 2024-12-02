@@ -18,4 +18,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
-[DEMO VIDEO](https://imgur.com/P3dbzg5)
+![DEMO VIDEO](https://github.com/user-attachments/assets/7b3c33f0-921f-4496-b756-c1f1a8e8ce4b)
