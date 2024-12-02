@@ -1,14 +1,19 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: EBiker Explorer
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This project for purpose practice using Salesforce Develper. Only show the Biker Information
+- List Biker Products with Pagination
+- Filter Biker
+- View Detail of Biker
 
 ## How Do You Plan to Deploy Your Changes?
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+```
+# Import Example Data
+sfdx data import tree --plan ./data/sample-data-plan.json
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+# Cmd to deploy to Salesforce
+sf project deploy start
+```
 
 ## Read All About It
 
@@ -18,4 +23,5 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
+## BIKE EXPORER
 ![DEMO VIDEO](https://github.com/user-attachments/assets/7b3c33f0-921f-4496-b756-c1f1a8e8ce4b)
